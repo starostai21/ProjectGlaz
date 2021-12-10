@@ -1,0 +1,117 @@
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\VosemNovKA.exe.config
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\VosemNovKA.exe
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\VosemNovKA.pdb
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\ZstdNet.dll
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.Form1.resources
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.Properties.Resources.resources
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.csproj.CopyComplete
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.exe
+C:\Users\User\Desktop\Рабочий стол\И-41\Новосёлов К.А\ExamNovos\WorkEx\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.pdb
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\VosemNovKA.exe.config
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\VosemNovKA.exe
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\VosemNovKA.pdb
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\BouncyCastle.Crypto.dll
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\Google.Protobuf.dll
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\K4os.Compression.LZ4.dll
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\K4os.Compression.LZ4.Streams.dll
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\K4os.Hash.xxHash.dll
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\MySql.Data.dll
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\System.Buffers.dll
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\System.Memory.dll
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\System.Numerics.Vectors.dll
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\Ubiety.Dns.Core.dll
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\ZstdNet.dll
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\Google.Protobuf.pdb
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\Google.Protobuf.xml
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\K4os.Compression.LZ4.xml
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\K4os.Compression.LZ4.Streams.xml
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\K4os.Hash.xxHash.xml
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\MySql.Data.xml
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\System.Buffers.xml
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\System.Memory.xml
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\System.Numerics.Vectors.xml
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.csprojAssemblyReference.cache
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.Form1.resources
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.Properties.Resources.resources
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.csproj.GenerateResource.cache
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.csproj.CoreCompileInputs.cache
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.csproj.CopyComplete
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.exe
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.pdb
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\obj\Debug\UserControlWpf.g.cs
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA_Content.g.cs
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA_MarkupCompile.cache
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA_MarkupCompile.lref
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\obj\Debug\UserControlWpf.baml
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.g.resources
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.WpfElementi.resources
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\obj\Debug\UserControlWpf1.g.cs
+d:\Коледж\И-41\Новосёлов.К\VosemNovKA\VosemNovKA\obj\Debug\UserControlWpf1.baml
+D:\VosemNovKA\VosemNovKA\bin\Debug\VosemNovKA.exe.config
+D:\VosemNovKA\VosemNovKA\bin\Debug\VosemNovKA.exe
+D:\VosemNovKA\VosemNovKA\bin\Debug\VosemNovKA.pdb
+D:\VosemNovKA\VosemNovKA\bin\Debug\BouncyCastle.Crypto.dll
+D:\VosemNovKA\VosemNovKA\bin\Debug\Google.Protobuf.dll
+D:\VosemNovKA\VosemNovKA\bin\Debug\K4os.Compression.LZ4.dll
+D:\VosemNovKA\VosemNovKA\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\VosemNovKA\VosemNovKA\bin\Debug\K4os.Hash.xxHash.dll
+D:\VosemNovKA\VosemNovKA\bin\Debug\MySql.Data.dll
+D:\VosemNovKA\VosemNovKA\bin\Debug\System.Buffers.dll
+D:\VosemNovKA\VosemNovKA\bin\Debug\System.Memory.dll
+D:\VosemNovKA\VosemNovKA\bin\Debug\System.Numerics.Vectors.dll
+D:\VosemNovKA\VosemNovKA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VosemNovKA\VosemNovKA\bin\Debug\Ubiety.Dns.Core.dll
+D:\VosemNovKA\VosemNovKA\bin\Debug\ZstdNet.dll
+D:\VosemNovKA\VosemNovKA\bin\Debug\Google.Protobuf.pdb
+D:\VosemNovKA\VosemNovKA\bin\Debug\Google.Protobuf.xml
+D:\VosemNovKA\VosemNovKA\bin\Debug\K4os.Compression.LZ4.xml
+D:\VosemNovKA\VosemNovKA\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\VosemNovKA\VosemNovKA\bin\Debug\K4os.Hash.xxHash.xml
+D:\VosemNovKA\VosemNovKA\bin\Debug\MySql.Data.xml
+D:\VosemNovKA\VosemNovKA\bin\Debug\System.Buffers.xml
+D:\VosemNovKA\VosemNovKA\bin\Debug\System.Memory.xml
+D:\VosemNovKA\VosemNovKA\bin\Debug\System.Numerics.Vectors.xml
+D:\VosemNovKA\VosemNovKA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.csproj.AssemblyReference.cache
+D:\VosemNovKA\VosemNovKA\obj\Debug\UserControlWpf.g.cs
+D:\VosemNovKA\VosemNovKA\obj\Debug\UserControlWpf1.g.cs
+D:\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA_Content.g.cs
+D:\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA_MarkupCompile.cache
+D:\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA_MarkupCompile.lref
+D:\VosemNovKA\VosemNovKA\obj\Debug\UserControlWpf.baml
+D:\VosemNovKA\VosemNovKA\obj\Debug\UserControlWpf1.baml
+D:\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.g.resources
+D:\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.Form1.resources
+D:\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.Properties.Resources.resources
+D:\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.WpfElementi.resources
+D:\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.csproj.GenerateResource.cache
+D:\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.csproj.CoreCompileInputs.cache
+D:\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.csproj.CopyComplete
+D:\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.exe
+D:\VosemNovKA\VosemNovKA\obj\Debug\VosemNovKA.pdb
